@@ -1,4 +1,4 @@
-# Big Creek Data
+<h3> Big Creek Data
 htmlwidgets: TRUE
 This file allows the user to choose what species they want to graph together on a bar plot. 
 {% if page.htmlwidgets %}
